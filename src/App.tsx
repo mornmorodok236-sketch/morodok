@@ -1,3 +1,8 @@
+/* ================================================
+   APP.TSX - NEW VERSION v2.0 (2026-08-21)
+   (contains useAuth + demoRole)
+   ================================================ */
+
 /**
  * @license
  * SPDX-License-Identifier: Apache-2.0
