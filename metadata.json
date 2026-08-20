@@ -1,0 +1,6 @@
+{
+  "name": "Titan Grid EA",
+  "description": "Premium modern website and dashboard portal for Titan Grid EA, a professional MetaTrader 4 algorithmic trading Expert Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
